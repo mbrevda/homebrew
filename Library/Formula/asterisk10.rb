@@ -2,7 +2,7 @@ require 'formula'
 
 class Asterisk10 < Formula
   homepage 'http://asterisk.org'
-  url 'http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-10.11.0.tar.gz'
+  url 'http://downloads.asterisk.org/pub/telephony/asterisk/old-releases/asterisk-10.11.0.tar.gz'
   sha1 'a678774bd6cb90fb4cefe115eb91a30228410288'
   
   depends_on 'openssl'
